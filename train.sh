@@ -1,0 +1,1 @@
+python train.py -m 'NaFNet' -n 'test_NaFNet_1' -kt '/home/Data/train/kspace' -it '/home/NewData/train/image' -kv '/home/Data/val/kspace' -iv '/home/NewData/val/image' --pre 0 --sens_chans 5 -e 60 --stop_epoch 30

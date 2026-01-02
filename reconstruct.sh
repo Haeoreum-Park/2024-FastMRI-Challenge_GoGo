@@ -1,0 +1,1 @@
+python reconstruct.py -b 1 -p '/home/Data/leaderboard' -n 'test_NaFNet_2'

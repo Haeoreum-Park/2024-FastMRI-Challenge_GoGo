@@ -1,0 +1,1 @@
+python recreate_data.py -tn 2 -vn 2 -tp 'home/Data/train' -vp 'home/Data/val' -ntp 'home/NewData/train/image' -nvp 'home/NewData/val/image'
