@@ -1,5 +1,11 @@
 # 팀 고민보다 고능 README
-2024 SNU FastMRI challenge
+
+본 저장소에는 2024 SNU FastMRI Challenge에 제출한 코드 중 FastMRI_challenge 디렉토리 이하의 파일들만 포함되어 있습니다.
+대회 종료 이후 정리 목적으로 최종 제출에 사용된 코드만 업로드한 저장소입니다. 데이터 파일과 결과는 포함되어 있지 않습니다.
+
+모델 구조, 학습 전략 및 접근 방법에 대한 자세한 설명은 2024 FastMRI challenge.pptx 자료를 참고하시기 바랍니다.
+
+본 팀은 해당 대회에서 총 160개 팀 중 6위를 기록하였으며, leaderboard 점수는 0.9800, private 점수는 0.9845입니다.
 
 ## 1. 폴더 계층
 
